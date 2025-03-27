@@ -4,10 +4,10 @@ Observer Field Theory (OFT) is a framework that unifies quantum mechanics and gr
 
 Key Documents
 
-: The foundational framework unifying quantum mechanics and gravity.
+ObserverFieldTheory_v1 : The foundational framework unifying quantum mechanics and gravity.
 
-: Computational validation of OFT, exploring how observer precision shapes information extraction.
+ObserverPrecision_OFT_ThomasPham_March2025_v1.pdf.pdf : Computational validation of OFT, exploring how observer precision shapes information extraction.
 
-: Simulations showing gravity’s measurable effects on quantum information, including a 26.6% reduction in mutual information.
+QuantumGravitySim_OFT_ThomasPham_March2025_v1.pdf : Simulations showing gravity’s measurable effects on quantum information, including a 26.6% reduction in mutual information.
 
 contact: thomas@ascendia.co
