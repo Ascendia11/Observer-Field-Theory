@@ -11,3 +11,6 @@ ObserverPrecision_OFT_ThomasPham_March2025_v1.pdf.pdf : Computational validation
 QuantumGravitySim_OFT_ThomasPham_March2025_v1.pdf : Simulations showing gravity’s measurable effects on quantum information, including a 26.6% reduction in mutual information.
 
 contact: thomas@ascendia.co
+
+⚠️ **Important**: GitHub's PDF viewer may only show the first few pages by default.  
+**To view the complete document without interruptions, please download it directly:**  
