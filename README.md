@@ -9,3 +9,5 @@ Key Documents
 : Computational validation of OFT, exploring how observer precision shapes information extraction.
 
 : Simulations showing gravity’s measurable effects on quantum information, including a 26.6% reduction in mutual information.
+
+contact: thomas@ascendia.co
