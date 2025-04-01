@@ -8,6 +8,22 @@ This repository serves as the core documentation hub for Observer Field Theory (
 📌 Main Release (March 2025)
 ✅ Latest & Most Comprehensive Simulation-Based Validation
 
+## 🌑 Observer Field Theory: *A New Paradigm for Dark Matter via Quantum Informational Collapse*
+
+This newly published paper introduces a radical reinterpretation of dark matter—not as a substance, but as a **topological memory of informational collapse**. Through a simulation-driven approach, the study reveals how **informational solitons**, formed via entanglement collapse within quantum graphs, replicate the gravitational effects attributed to dark matter.
+
+### 🧬 Highlights:
+- **Dark matter = solitonic curvature anomalies**, not particles  
+- **Simulations from n = 3–16 nodes** show emergence of stable, memory-retaining structures  
+- **Reproduces halo profiles, lensing distortions, and early-universe anisotropies**  
+- **Predicts Ω<sub>soliton</sub> ≈ 0.26**, matching Planck satellite estimates  
+- **Offers falsifiable observational predictions**: lensing asymmetries, CMB cold spots, soliton decay spectra
+
+This is the **first quantum information-based model** of dark matter supported by entanglement-driven geometry.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15117200.svg)](https://doi.org/10.5281/zenodo.15117200)
+
+
 ## 🧠 Observer Field Theory: A Measurable Unification of Quantum Mechanics and Gravity
 
 This paper introduces **Observer Field Theory (OFT)** — a simulation-validated framework that unifies quantum mechanics, general relativity, and cosmology through *informational structure*. Instead of treating space, time, or fields as fundamental, OFT models physics as emergent from the **Universal Informational Field (UIF)**: a dynamically evolving hypergraph of quantum entanglement.
