@@ -4,9 +4,35 @@
 
 This repository serves as the core documentation hub for Observer Field Theory (OFT), a new theoretical framework proposing that spacetime and gravity emerge from entanglement structure and observer interactions with an underlying universal informational field.
 
+📜 [Fingerprint of Origin (Authorship Record)](FINGERPRINT_OF_ORIGIN.md)
+
 🔹 Key Publications
 📌 Main Release (March 2025)
 ✅ Latest & Most Comprehensive Simulation-Based Validation
+
+
+### 🌍 Observer Field Theory: General Relativity Derived from Quantum Informational Collapse  
+📅 Published April 3, 2025  
+👤 Pham, Thomas | [ORCID: 0009-0006-1702-764X](https://orcid.org/0009-0006-1702-764X)
+
+This paper presents the **full derivation of General Relativity** from informational collapse within the Observer Field Theory (OFT) framework. It demonstrates how a differentiable spacetime manifold, the Einstein-Hilbert action, and Einstein’s field equations all **emerge directly from coherence-weighted entanglement structure**—without invoking any geometric priors.
+
+#### 📐 Key Contributions:
+- **Spacetime = informational coherence**, not a fundamental manifold  
+- **Metric, curvature tensors, and gravitational action** derived from UIF topology  
+- **Gravity = recursive collapse residue** — not a quantized force  
+- Provides **a complete, falsifiable alternative** to quantizing general relativity  
+- Testable predictions across:
+  - **Cosmology** (CMB anomalies, soliton decay spectra)  
+  - **Quantum decoherence** (observer-driven entropy gradients)  
+  - **High-energy physics** (Higgs self-coupling deviation)
+
+>  *Rather than quantizing gravity, OFT dissolves it into its informational source.*
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15128406.svg)](https://doi.org/10.5281/zenodo.15128406)  
+🔗 [https://doi.org/10.5281/zenodo.15128406](https://doi.org/10.5281/zenodo.15128406)
+
+
 
 ## 🌑 Observer Field Theory: *A New Paradigm for Dark Matter via Quantum Informational Collapse*
 
