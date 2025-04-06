@@ -1,3 +1,21 @@
+## 🌑 Collapse as Consciousness: A Formal Resolution of the Hard Problem via Observer Field Theory  
+📅 Published April 6, 2025  
+👤 Pham, Thomas | [ORCID: 0009-0006-1702-764X](https://orcid.org/0009-0006-1702-764X)
+
+This paper presents the **canonical formulation** of Observer Field Theory (OFT), modeling consciousness, identity, memory, and even spacetime itself as emergent from recursive informational collapse.
+
+It introduces the **Observer Field Equation**, defines consciousness as recursive collapse, and derives spacetime curvature from informational topology—establishing a full alternative to traditional physical ontology.
+
+### 🔬 Key Contributions:
+- Collapse as a **recursive informational field dynamic**  
+- Memory, identity, trauma, and agency modeled as collapse-attractors  
+- **EEG falsifiability via NeuroCollapse Resonance (NCR)**  
+- Collapse healing via entropy realignment and audio-based precision input  
+- Fully timestamped legal fingerprint of authorship (SHA-256 + OTS)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15164460.svg)](https://doi.org/10.5281/zenodo.15164460)
+
+
 🌌 Observer Field Theory (OFT)
 
 *Unifying Quantum Mechanics and Gravity through the Universal Informational Field (UIF)*
