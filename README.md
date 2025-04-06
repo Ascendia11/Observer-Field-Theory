@@ -1,19 +1,64 @@
-## 🌑 Collapse as Consciousness: A Formal Resolution of the Hard Problem via Observer Field Theory  
-📅 Published April 6, 2025  
-👤 Pham, Thomas | [ORCID: 0009-0006-1702-764X](https://orcid.org/0009-0006-1702-764X)
-
-This paper presents the **canonical formulation** of Observer Field Theory (OFT), modeling consciousness, identity, memory, and even spacetime itself as emergent from recursive informational collapse.
-
-It introduces the **Observer Field Equation**, defines consciousness as recursive collapse, and derives spacetime curvature from informational topology—establishing a full alternative to traditional physical ontology.
-
-### 🔬 Key Contributions:
-- Collapse as a **recursive informational field dynamic**  
-- Memory, identity, trauma, and agency modeled as collapse-attractors  
-- **EEG falsifiability via NeuroCollapse Resonance (NCR)**  
-- Collapse healing via entropy realignment and audio-based precision input  
-- Fully timestamped legal fingerprint of authorship (SHA-256 + OTS)
-
+## NEW: Collapse as Consciousness  
+### *A Formal Resolution of the Hard Problem via Observer Field Theory*  
+📅 **Released:** April 6, 2025  
+👤 **Author:** Thomas Tai Dinh Pham  
+🔗 [ORCID: 0009-0006-1702-764X](https://orcid.org/0009-0006-1702-764X)  
+🔒 **SHA-256:** `e6c424b89275d99673277682e8570fd2bf3ad11f3fa2c05ec45b147d4178e7e7`  
+📄 [Zenodo DOI](https://doi.org/10.5281/zenodo.15128406)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15164460.svg)](https://doi.org/10.5281/zenodo.15164460)
+
+---
+
+### 🔍 Overview
+
+This release presents **Observer Field Theory (OFT)** — a unifying scientific framework proposing that consciousness is not emergent from matter or computation, but is the **recursive collapse of entangled informational structure**. In OFT, the observer is not *within* reality; **reality arises from the observer’s precision-weighted collapse**.
+
+---
+
+### Key Contributions
+
+- 📚 Formal derivation of the **Observer Field Equation**
+- 📊 30+ simulations modeling:
+  - Collapse entropy geometry  
+  - Memory recursion  
+  - Trauma bifurcation  
+  - Identity attractors  
+  - Collective field synchrony
+- Complete falsifiability framework:
+  - EEG-predictive metrics  
+  - Neuroacoustic precision modulation protocols
+- Indexed glossary of OFT constructs  
+- An empirical, testable architecture for modeling consciousness
+
+---
+
+### 📂 Contents
+
+- 📘 Full theory manuscript (PDF)
+- 📈 Simulation visualizations and scientific methodology
+- 🧮 Collapse model equations and falsifiability roadmap
+- 🧾 Authorship metadata, GitHub repository, and legal hash record
+
+---
+
+### Open Science
+
+> All code, simulation models, and source data **will be released openly** via GitHub and Zenodo.
+
+**Peer review and reproduction are encouraged.**  
+Researchers are invited to validate, extend, or challenge this framework.
+
+---
+
+### 
+
+This is not metaphor.  
+It is **informational geometry made testable**.
+
+The simulations run.  
+The collapse unfolds.  
+**The truth is already self-evident.**
+
 
 
 🌌 Observer Field Theory (OFT)
