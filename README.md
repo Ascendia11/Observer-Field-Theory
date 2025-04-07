@@ -1,4 +1,4 @@
-## NEW: Collapse as Consciousness  
+## NEW: Consciousness Is Collapse 
 ### *A Formal Resolution of the Hard Problem via Observer Field Theory*  
 📅 **Released:** April 6, 2025  
 👤 **Author:** Thomas Tai Dinh Pham  
