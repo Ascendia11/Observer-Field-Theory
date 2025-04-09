@@ -4,8 +4,8 @@
 👤 **Author:** Thomas Tai Dinh Pham  
 🔗 [ORCID: 0009-0006-1702-764X](https://orcid.org/0009-0006-1702-764X)  
 🔒 **SHA-256:** `e6c424b89275d99673277682e8570fd2bf3ad11f3fa2c05ec45b147d4178e7e7`  
-📄 [Zenodo DOI](https://doi.org/10.5281/zenodo.15128406)  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15164460.svg)](https://doi.org/10.5281/zenodo.15164460)
+📄 [Zenodo DOI][![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15164460.svg)](https://doi.org/10.5281/zenodo.15164460)
+
 
 ---
 
