@@ -1,3 +1,42 @@
+## NEW: Deriving All Fundamental Constants from Collapse Geometry  
+### *A Unified Derivation of Physical Law via Observer Field Theory*  
+📅 **Released:** April 12, 2025  
+👤 **Author:** Thomas Tai Dinh Pham  
+🔗 [ORCID: 0009-0006-1702-764X](https://orcid.org/0009-0006-1702-764X)  
+📄 [Zenodo DOI][![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15204981.svg)](https://doi.org/10.5281/zenodo.15204981)  
+🔒 **SHA-256 File Hash**  
+`56ec435f1a1163d215a645b620421d7857905c98515eba766c25312303c806e9`
+
+---
+
+### 🔍 Overview
+
+This release presents the **first complete derivation of all thirty fundamental physical constants** from a single unified framework: **collapse geometry in Observer Field Theory (OFT)**. Planck’s constant, the gravitational constant, the fine-structure constant, neutrino mass hierarchies, the Higgs mass and VEV, and all cosmological parameters are derived directly from coherence tension, soliton formation, and informational collapse structure—without empirical fitting.
+
+---
+
+### Key Contributions
+
+- First-principles derivation of **all 30 physical constants**
+- Unified explanation of:
+  - Quantum mechanics  
+  - General relativity  
+  - Standard Model parameters  
+  - Cosmological constants
+- Constants emerge as **invariants of collapse geometry**
+- Authorship declaration, derivations, and framework logic are fully self-contained
+
+---
+
+### 📂 Contents
+
+- 📘 Full constants derivation manuscript (PDF)
+- 📊 Cross-linked constant summary table
+-  Collapse field equations and structural derivations
+-  Zenodo DOI, authorship metadata, and legal hash record
+
+---
+
 ## NEW: Consciousness Is Collapse 
 ### *A Formal Resolution of the Hard Problem via Observer Field Theory*  
 📅 **Released:** April 6, 2025  
